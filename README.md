@@ -27,12 +27,19 @@ Run the application:
 python CLOUDOPS.py
 Usage
 Upon running CLOUDOPS.py, a graphical user interface (GUI) will appear with several options.
+
 Use the buttons to navigate through different functionalities:
+
 START REGISTRATION: Begin the attendee registration process.
+
 VIEW DATA: View the attendance data in a treeview widget.
+
 DELETE DATA: Delete attendee data by entering the registration number.
+
 GENERATE FILE: Generate an attendance CSV file.
+
 Important Notes
+
 Ensure that you have a MySQL database set up with the required schema. Update the database connection details in the script if necessary.
 The main execution should start from the CLOUDOPS.py script.
 Make sure the Tesseract OCR tool is installed if you are using the image-to-text functionality.
