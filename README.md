@@ -48,4 +48,4 @@ For any questions, issues, or feature requests, please open an issue.
 
 Happy coding!
 
-Remember to replace `your-username` with your actual GitHub username, and update the rep
+]
